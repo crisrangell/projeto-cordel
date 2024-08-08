@@ -105,6 +105,10 @@ section article aside{
     /* acrescentou box-shadow: inset 6px 6px 13px black; para bordas da imagem */
 }
 
+#paragrafo, #paragrafo1{
+    padding-top: 0;
+}
+
 footer{
     background-color: black;
     color: white;
